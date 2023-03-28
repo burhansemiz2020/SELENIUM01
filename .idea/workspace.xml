@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abe7fa75-e8b2-40a3-a622-58d34af7132e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mavenExecutorSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/C01_readExcel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q00_SeleniumStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q01_WebDriverMethods01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q02_DriverNavigateMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q03_DriverManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q04_DriverManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q05_WebDriverMethods02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q06_WebDriverMethod03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q07_CreateWebElementObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q08_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q09_WebDriverMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q10_DriverNavigateMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q11_DriverManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Q12_DriverManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A01SeleniumPratiques/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C01_ilkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C02_ManuelYuklemeIleDriverOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C03_MavenIlkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C04_DriverGetMetotlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C05_IlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/C06Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMetotlariveWebElement/C01_DriverNavigateMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMetotlariveWebElement/C02_DriverManageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMetotlariveWebElement/C03_Webelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMetotlariveWebElement/C04_findElementMethodu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMetotlariveWebElement/C05_AutomationExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C01_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C02_RelativeXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C03_TextIleXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C04_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C05_RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders03_LocatorsXPath/C05_RelativeLocatorsQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C01_maven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C02_zeroWebApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C03_JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C04_JUnitTestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C05_BeforeAfterNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C06_BeforeClassAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders04_Maven_JUnitFramework/C07_Before_BeforeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C02_AssertionsMetotlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C03_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C04Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C05_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders05_JUnit_Assertions/C06_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders06_JsAlerts_iFrame/C01_JsAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders06_JsAlerts_iFrame/C02_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders06_JsAlerts_iFrame/C03_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C01_TestBaseIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C02_HandleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C03_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C04_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C05_ActionsDragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders07_testBase_handleWindows_actions/C06_ActionsMoveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C01_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C02_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C03_DosyaYolu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C04_FileDownloadsTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C05_FileUploadsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders08_ActionsClass_FakerClass_FileTest/C06_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders09_Cookies_WebTables/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders09_Cookies_WebTables/C02_WebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders09_Cookies_WebTables/C03_WebTablesDuzensiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C03_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C04_TumSAyfaGetScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C05_IstenenElementGetScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C06_JsExecutorClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/C07_JsExecutorScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ders10_ExcelAutomation_GetScreenshot/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseMethod.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NIN0XLOiKer1lO4CkJrUP3SO2p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/semiz/OneDrive/Bureau/SELENIUM/com.team113/src/test/java/ders10_ExcelAutomation_GetScreenshot",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\semiz\OneDrive\Bureau\SELENIUM\com.team113\src\test\java\ders10_ExcelAutomation_GetScreenshot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\semiz\OneDrive\Bureau\SELENIUM\com.team113\src\test\java\ders10_ExcelAutomation_GetScreenshot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q12_DriverManageMethods">
+    <configuration name="Q09_WebDriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q09_WebDriverMethods" />
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A01SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10_DriverNavigateMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q10_DriverNavigateMethods" />
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A01SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11_DriverManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q11_DriverManageMethods" />
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A01SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q12_DriverManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q12_DriverManageMethods" />
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A01SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_readExcel.test01" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders10_ExcelAutomation_GetScreenshot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ders10_ExcelAutomation_GetScreenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_ExcelAutomation_GetScreenshot.C01_readExcel" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_WebTable" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders09_Cookies_WebTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ders09_Cookies_WebTables" />
+      <option name="MAIN_CLASS_NAME" value="ders09_Cookies_WebTables.C02_WebTable" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_JsExecutorScroll.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders10_ExcelAutomation_GetScreenshot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ders10_ExcelAutomation_GetScreenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_ExcelAutomation_GetScreenshot.C07_JsExecutorScroll" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Q09_WebDriverMethods" />
+      <item itemvalue="Application.Q10_DriverNavigateMethods" />
+      <item itemvalue="Application.Q11_DriverManageMethods" />
+      <item itemvalue="Application.Q12_DriverManageMethods" />
+      <item itemvalue="JUnit.C01_readExcel" />
+      <item itemvalue="JUnit.C01_readExcel.test01" />
+      <item itemvalue="JUnit.C02_WebTable" />
+      <item itemvalue="JUnit.C07_JsExecutorScroll.test01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q12_DriverManageMethods" />
+        <item itemvalue="Application.Q11_DriverManageMethods" />
+        <item itemvalue="Application.Q10_DriverNavigateMethods" />
+        <item itemvalue="Application.Q09_WebDriverMethods" />
+        <item itemvalue="JUnit.C07_JsExecutorScroll.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe7fa75-e8b2-40a3-a622-58d34af7132e" name="Changes" comment="" />
+      <created>1679347417023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679347417023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.xlsx" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_team113$Q00_SeleniumStart.ic" NAME="Q00_SeleniumStart Coverage Results" MODIFIED="1679607089208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>A01SeleniumPratiques.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/com_team113$C01_Alert_test01.ic" NAME="C01_Alert.test01 Coverage Results" MODIFIED="1679602790302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ders06_JsAlerts_iFrame.*</FILTER>
+    </SUITE>
+  </component>
+</project>
