@@ -142,7 +142,7 @@
       <recent name="C:\Users\semiz\OneDrive\Bureau\SELENIUM\com.team113\src\test\java\ders10_ExcelAutomation_GetScreenshot" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q08_HandleDropdown.test01">
+  <component name="RunManager" selected="JUnit.Q09_BasicAuthentication.test01">
     <configuration name="Q14_WebDriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q14_WebDriverMethods" />
       <module name="com.team113" />
@@ -187,37 +187,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q07_HandleDropDdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.team113" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A03SeleniumPratiques.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q07_HandleDropDdown" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q07_HandleDropDdown.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.team113" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A03SeleniumPratiques.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q07_HandleDropDdown" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q08_HandleDropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
@@ -249,23 +218,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q09_BasicAuthentication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A03SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
+      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q09_BasicAuthentication" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q09_BasicAuthentication.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A03SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
+      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q09_BasicAuthentication" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Q14_WebDriverMethods" />
       <item itemvalue="JUnit.C01_readExcel" />
       <item itemvalue="JUnit.C01_readExcel.test01" />
       <item itemvalue="JUnit.C02_WebTable" />
-      <item itemvalue="JUnit.Q07_HandleDropDdown" />
-      <item itemvalue="JUnit.Q07_HandleDropDdown.test01" />
+      <item itemvalue="JUnit.Q09_BasicAuthentication" />
+      <item itemvalue="JUnit.Q09_BasicAuthentication.test01" />
       <item itemvalue="JUnit.Q08_HandleDropdown" />
       <item itemvalue="JUnit.Q08_HandleDropdown.test01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q09_BasicAuthentication.test01" />
+        <item itemvalue="JUnit.Q09_BasicAuthentication" />
         <item itemvalue="JUnit.Q08_HandleDropdown.test01" />
         <item itemvalue="JUnit.Q08_HandleDropdown" />
         <item itemvalue="Application.Q14_WebDriverMethods" />
-        <item itemvalue="JUnit.Q07_HandleDropDdown.test01" />
-        <item itemvalue="JUnit.Q07_HandleDropDdown" />
       </list>
     </recent_temporary>
   </component>
