@@ -17,10 +17,10 @@ public class TestBaseMethod {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         driver.manage().window().maximize();
 
-
     }
     @After
     public void tearDown() {
-        driver.quit();
+
+        //driver.close();
     }
 }
