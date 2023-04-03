@@ -32,6 +32,6 @@ public class Q00_SeleniumStart {
         driver.navigate().refresh();
         driver.navigate().back();
         driver.navigate().forward();
-        System.out.println("abc");
+        System.out.println("abcd");
     }
 }
