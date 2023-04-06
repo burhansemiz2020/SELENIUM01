@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abe7fa75-e8b2-40a3-a622-58d34af7132e" name="Changes" comment="" />
+    <list default="true" id="abe7fa75-e8b2-40a3-a622-58d34af7132e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A03SeleniumPratiques/Q10_HandleIFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A03SeleniumPratiques/Q11_HandleIFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +43,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2NIN0XLOiKer1lO4CkJrUP3SO2p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,7 +60,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/semiz/IdeaProjects/SELENIUM/com.team113&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/semiz/IdeaProjects/SELENIUM/com.AmazonSelenium01&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -62,20 +75,7 @@
       <recent name="C:\Users\semiz\OneDrive\Bureau\SELENIUM\com.team113\src\test\java\ders10_ExcelAutomation_GetScreenshot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q14_WebDriverMethods">
-    <configuration name="Q14_WebDriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01SeleniumPratiques.Q14_WebDriverMethods" />
-      <module name="com.team113" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A01SeleniumPratiques.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Q11_HandleIFrame.test01">
     <configuration name="C01_readExcel.test01" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
@@ -87,6 +87,22 @@
       <option name="PACKAGE_NAME" value="ders10_ExcelAutomation_GetScreenshot" />
       <option name="MAIN_CLASS_NAME" value="ders10_ExcelAutomation_GetScreenshot.C01_readExcel" />
       <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_IFrame.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team113" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A03SeleniumPratiques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
+      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.C02_IFrame" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q08_HandleDropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q10_HandleIFrame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +132,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q08_HandleDropdown" />
+      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q10_HandleIFrame" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q08_HandleDropdown.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q11_HandleIFrame.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
         <pattern>
@@ -131,38 +147,38 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q08_HandleDropdown" />
+      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q11_HandleIFrame" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q09_BasicAuthentication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q15_WebElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A03SeleniumPratiques.*" />
+          <option name="PATTERN" value="A02SeleniumPratiques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q09_BasicAuthentication" />
+      <option name="PACKAGE_NAME" value="A02SeleniumPratiques" />
+      <option name="MAIN_CLASS_NAME" value="A02SeleniumPratiques.Q15_WebElement" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q09_BasicAuthentication.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q17_WebElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A03SeleniumPratiques.*" />
+          <option name="PATTERN" value="A02SeleniumPratiques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A03SeleniumPratiques" />
-      <option name="MAIN_CLASS_NAME" value="A03SeleniumPratiques.Q09_BasicAuthentication" />
+      <option name="PACKAGE_NAME" value="A02SeleniumPratiques" />
+      <option name="MAIN_CLASS_NAME" value="A02SeleniumPratiques.Q17_WebElement" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -170,22 +186,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q14_WebDriverMethods" />
       <item itemvalue="JUnit.C01_readExcel" />
       <item itemvalue="JUnit.C01_readExcel.test01" />
       <item itemvalue="JUnit.C02_WebTable" />
-      <item itemvalue="JUnit.Q09_BasicAuthentication" />
-      <item itemvalue="JUnit.Q09_BasicAuthentication.test01" />
-      <item itemvalue="JUnit.Q08_HandleDropdown" />
-      <item itemvalue="JUnit.Q08_HandleDropdown.test01" />
+      <item itemvalue="JUnit.C02_IFrame.test" />
+      <item itemvalue="JUnit.Q11_HandleIFrame.test01" />
+      <item itemvalue="JUnit.Q15_WebElement" />
+      <item itemvalue="JUnit.Q17_WebElement.test01" />
+      <item itemvalue="JUnit.Q10_HandleIFrame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q09_BasicAuthentication.test01" />
-        <item itemvalue="JUnit.Q09_BasicAuthentication" />
-        <item itemvalue="JUnit.Q08_HandleDropdown.test01" />
-        <item itemvalue="JUnit.Q08_HandleDropdown" />
-        <item itemvalue="Application.Q14_WebDriverMethods" />
+        <item itemvalue="JUnit.Q11_HandleIFrame.test01" />
+        <item itemvalue="JUnit.Q10_HandleIFrame" />
+        <item itemvalue="JUnit.C02_IFrame.test" />
+        <item itemvalue="JUnit.Q17_WebElement.test01" />
+        <item itemvalue="JUnit.Q15_WebElement" />
       </list>
     </recent_temporary>
   </component>
